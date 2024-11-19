@@ -25,7 +25,7 @@ jobs:
 
       - name: Install required packages
         run: |
-          pip install pyTelegramBotAPI
+          pip install telebot flask aiogram python-telegram-bot pymongo aiohttp
       - name: Run soul.py
         run: python3 soul.py
 
