@@ -25,7 +25,7 @@ jobs:
 
       - name: Install required packages
         run: |
-          pip install telebot pymongo aiohttp
+          python3 soul.py
       - name: Run soul.py
         run: python3 soul.py
 
