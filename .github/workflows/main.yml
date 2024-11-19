@@ -23,6 +23,7 @@ jobs:
         run: |
 
         name: Run Soul Workflow
+
  on:
   push:
     branches:
