@@ -21,9 +21,6 @@ jobs:
 
       - name: py runner
         run: |
-
-        name: Run Soul Workflow
-
  on:
   push:
     branches:
