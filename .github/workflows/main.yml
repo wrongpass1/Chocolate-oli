@@ -22,7 +22,7 @@ jobs:
       - name: py runner
         run: |
 
-        name: Run Soul Workflows
+        name: Run Soul Workflow
  on:
   push:
     branches:
